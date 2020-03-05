@@ -304,6 +304,7 @@
     ],
     "Router": [
       "router/hierarquia-bots-subbots",
+      "router/criando-bot-arquitetura-router-empresa",
       "router/criando-bot-com-3-subbots",
       "router/recuperando-infomacoes-contatos-subbots"
     ],
